@@ -37,7 +37,7 @@ Here are some things I've built or am currently developing:
 
 - **Veterinary Clinic Web App** – A full-stack web application for managing pet care  
 - **Library Book Management System** – Academic software for managing loans and inventory  
-- **Demo MRP System** *(in progress)* – A material requirements planning system demo
+- **Demo MRP System**  – A material requirements planning system demo
 
 ---
 
