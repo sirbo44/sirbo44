@@ -7,11 +7,11 @@
 
 ## 👋 About Me
 
-I’m Stavros Syrmpopoulos, a tech-savvy student from **Athens, Greece**. I’m currently pursuing:
-- **Industrial Management & Technology** at University of Piraeus  
-- **Computing** at University of Bolton (Greater Manchester)
+I’m Stavros Syrmpopoulos, a tech-driven professional from **Athens, Greece**. My academic background bridges computing and operations:
+- 🎓 **BSc (Hons) in Computing** – University of Bolton (Graduated July 2025)
+- 📚 **Industrial Management & Technology** – University of Piraeus (Ongoing)
 
-I enjoy building meaningful tech solutions, solving systems problems, and merging the worlds of management and code.
+I enjoy building meaningful tech solutions, optimizing system architectures, and merging the worlds of business management and code.
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy building meaningful tech solutions, solving systems problems, and mergin
 - **JavaScript** (Node.js, Express, EJS)
 - **Java** (Spring Boot)
 
-### Currently interested:
+### Current Focus & Interests:
 - Robotics  
 - MRP systems  
 - Operating Systems  
@@ -33,7 +33,7 @@ I enjoy building meaningful tech solutions, solving systems problems, and mergin
 
 ## 🚀 Projects
 
-Here are some things I've built or am building:
+Here are some things I've built or am currently developing:
 
 - **Veterinary Clinic Web App** – A full-stack web application for managing pet care  
 - **Library Book Management System** – Academic software for managing loans and inventory  
