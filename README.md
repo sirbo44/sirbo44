@@ -22,7 +22,7 @@ I enjoy building meaningful tech solutions, solving systems problems, and mergin
 - **JavaScript** (Node.js, Express, EJS)
 - **Java** (Spring Boot)
 
-### Currently learning:
+### Currently interested:
 - Robotics  
 - MRP systems  
 - Operating Systems  
