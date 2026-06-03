@@ -59,14 +59,14 @@ Here are some things I've built or am currently developing:
 
 ## 📊 GitHub Stats
 
-![Stavros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirbo44&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirbo44&layout=compact&theme=radical)
+![Stavros's GitHub stats](https://shion.dev)  
+![Top Languages](https://shion.dev)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sirbo44&theme=radical)
+![GitHub Streak](https://demolab.com)
 
 ---
 
