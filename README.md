@@ -59,7 +59,7 @@ Here are some things I've built or am currently developing:
 
 ## 📊 GitHub Stats
 
-![Stavros's GitHub Metrics](https://lecoq.io) 
+![Stavros's GitHub stats](https://shion.dev) 
 ![Top Languages](https://shion.dev)
 
 ---
